@@ -156,15 +156,16 @@ TugasWeb-P9-LaravelSetup/
 
 ## Pemenuhan Ketentuan Tugas
 
-| No | Ketentuan                                                                   | Status  |
-| 1  | Install Composer dan membuat project dengan composer create-project         | Selesai |
-| 2  | Membuat database di phpMyAdmin dan konfigurasi `.env` (MySQL)               | Selesai |
-| 3  | `artisan serve` berjalan dan tangkapan layar halaman welcome                | Selesai |
+| No | Ketentuan                                                       | Status  |
+| -- | --------------------------------------------------------------- | ------- |
+| 1  | Install Composer dan membuat project dengan composer create-project | Selesai |
+| 2  | Membuat database di phpMyAdmin dan konfigurasi `.env` (MySQL)   | Selesai |
+| 3  | `artisan serve` berjalan dan tangkapan layar halaman welcome    | Selesai |
 | 4  | Tiga route custom (`/`, `/about`, `/contact`) yang mengembalikan Blade view | Selesai |
-| 5  | View menampilkan data dinamis (array dari route)                            | Selesai |
-| 6  | Menggunakan `make:controller` dan `make:model -m`                           | Selesai |
-| 7  | README berisi langkah instalasi dan penjelasan struktur folder              | Selesai |
-| 8  | Nama repository `TugasWeb-P9-LaravelSetup`                                  | Selesai |
+| 5  | View menampilkan data dinamis (array dari route)                | Selesai |
+| 6  | Menggunakan `make:controller` dan `make:model -m`               | Selesai |
+| 7  | README berisi langkah instalasi dan penjelasan struktur folder  | Selesai |
+| 8  | Nama repository `TugasWeb-P9-LaravelSetup`                      | Selesai |
 
 ## Identitas Pembuat
 
